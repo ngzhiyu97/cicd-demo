@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+"# cicd-demo" 
+=======
 # Reference
 
 ## Maven Command
@@ -121,3 +124,4 @@ git push --tags
 git ls-remote --tags
 
 EPAT Aug19
+>>>>>>> 211fa29e341600dd29506ac9ed994f70d1c08527
